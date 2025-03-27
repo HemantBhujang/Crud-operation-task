@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Peter Henry",
+      "email": "peter@henyr.com"
+    },
+    {
+      "id": "2",
+      "name": "Dinanath Chauhan",
+      "email": "dinanath@gmail.com"
+    },
+    {
+      "name": "Marko Yansan",
+      "email": "marko@gmail.com",
+      "id": "3"
+    },
+    {
+      "name": "Harry Poter",
+      "email": "harry@gmail.com",
+      "id": "d003"
+    },
+    {
+      "name": "Krishna patil",
+      "email": "krishnaaute@gmail.com",
+      "id": "3d58"
+    },
+    {
+      "id": "b77a",
+      "name": "Hemant Bhujang",
+      "email": "hemantbhujang@gmail.com"
+    }
+  ]
+}
